@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Klavitur Shop</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="have_account">Sudah Punya Akun? Login</string>
+    <string name="no_account">Belum Punya Akun? Registrasi</string>
+    <string name="call_center">Call Center</string>
+    <string name="sms_center">SMS Center</string>
+    <string name="lokasi_toko">Lokasi Toko</string>
+    <string name="update_user_password">Update User &amp; Password</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="rp">Rp</string>
+    <string name="zero">0</string>
+    <string name="bayar">Bayar</string>
+    <string name="batal">Batal</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="description_content">Description Content</string>
+    <string name="description">Description:</string>
+    <string name="login_title">L O G I N</string>
+    <string name="register_title">R E G I S T E R</string>
+
+    <string-array name="item_name">
+        <item>KBD75 V3.1 Mechanical Keyboard with Cement Grey Japanese Keycaps</item>
+        <item>Black Blade60 Hot-swap Keyboard with EnjoyPBT Keycaps</item>
+        <item>TOFU65 Mechanical Keyboard With EPBT Black Japanese Keycaps</item>
+        <item>TOFU84 Acrylic Soldered 75% Mechanical Keyboard With MAXKEY Pink&amp;White Keycaps</item>
+        <item>TOFU65 Black Mechanical Keyboard with EPBT Wob Keycaps</item>
+        <item>KBD75 V2 Mechancial Keyboard with F22 Keycaps</item>
+        <item>D84 Gasket 75% Mechanical Keyboard</item>
+        <item>KBD75 V2 Soldered Customized Mechanical Keyboard DIY Kit</item>
+    </string-array>
+
+    <string-array name="item_price">
+        <item>3635000</item>
+        <item>3550000</item>
+        <item>3993000</item>
+        <item>3635000</item>
+        <item>3549000</item>
+        <item>3936000</item>
+        <item>3077000</item>
+        <item>2418000</item>
+    </string-array>
+
+    <array name="item_img">
+        <item>@drawable/kbd75_v31_japan</item>
+        <item>@drawable/blade60_epbt</item>
+        <item>@drawable/tofu65_epbt</item>
+        <item>@drawable/tofu84_maxkey</item>
+        <item>@drawable/tofu65_epbt_wob</item>
+        <item>@drawable/kbd75_f22</item>
+        <item>@drawable/d84_gasket</item>
+        <item>@drawable/kbd75_soldered</item>
+    </array>
+
+    <string-array name="item_desc">
+        <item>
+            Spec:\n
+            - Soldered PCB: KBD75 Rev 2.0 solder PCB (PCB0005) (with RGB underglow)\n
+            - Hot-swap PCB: KBD75 hot swap PCB (RGB underglow, no Per-key RGB)\n
+            - Typing angle: 7°\n
+            - Interface: Type-C\n
+            - Case: Top-mount, Aluminum material 75% layout, Acrylic mid-layer\n
+            - Plate: Brass\Aluminum Plate\n
+            - Stabs: Cherry screw-in stabs 60set x1\n
+            - Keycaps: DP2787\n
+            - PCB foam: Put it between PCB and Plate\n
+            - Case foam: Put it between PCB and Case\n
+            - Weight bar: Aluminum material default\n\n
+
+            Include:\n
+            - PCB x1\n
+            - Case x1\n
+            - Plate x1\n
+            - Keycaps x1\n
+            - PCB foam x1\n
+            - Case foam x1\n
+            - Stabs 60 set x1\n
+            - USB-C cable x1\n
+            - Screws and rubber feet
+        </item>
+        <item>
+            Specs:\n
+            - Blade 60% Aluminum Case\n
+            - O-RING Mount\n
+            - 7° Type angle\n
+            - DZ60RGB V2 hot swap PCB / DZ60RGB-ANSI hot swap PCB (with per-key RGB on the top)\n
+            - Cherry Screw-in stabs 60 set\n
+            - Contains a 3 mm Bottom Foam\n
+            - Four screw posts and one threaded hole to make the PCB more elastic.\n\n
+
+            Include:\n
+            - Case x1\n
+            - PCB x1\n
+            - Stabilizers 60 set x1\n
+            - ePBT Keycaps: Black-Gold (SKU DP1015) x1 or WOB (SKU DP0299) x1\n
+            - Bottom foam x1\n
+            - USB-C cable x1\n
+            - Screws and rubber feet
+        </item>
+        <item>
+            Specs:\n
+            - Hot-swap version (DZ65RGB V3 hot-swap PCB) with Per-key RGB\n
+            - Soldered version (KBD67 Rev 2 soldered PCB) with RGB underglow\n
+            - Layouts: ANSI or ISO layout\n
+            - Support VIA configurator\n
+            - EnjoyPBT Black Japanese 148 Keycaps Set (SKU: C0032)\n
+            - Cherry Profile\n
+            - Dye-sub PBT material\n
+            - Tofu65 case\n
+            - Cherry screw-in stabs 60 set\n
+            - Aluminum/ Brass/ PC plate\n
+            - USB-C interface\n\n
+
+            Include\n
+            - Keycaps x1\n
+            - PCB x1\n
+            - Case x1\n
+            - Plate x1\n
+            - Stabs 60set x1\n
+            - USB-C cable x1\n
+            - Rubber feet and screws
+        </item>
+        <item>
+            Specs:\n
+            - Tray Mount\n
+            - 75% layout\n
+            - Tofu84 Acrylic\n
+            - KBD75 V2 Soldered version PCB\n
+            - RGB underglow, NOT Per-key RGB\n
+            - Aluminum plate\n
+            - Type-C interface\n
+            - ABS Doubleshot SA Profile Keycaps\n\n
+
+            Include:\n
+            - Case x1\n
+            - PCB x1\n
+            - Plate x1\n
+            - Case foam (Put between case and PCB) x1\n
+            - Cherry screw-in stabs 60 set x1\n
+            - USB-C cable x1\n
+            - Maxkey Pink&amp;White SA Keycaps set x1 (JM0556)
+        </item>
+        <item>
+            Specs:\n
+            - DZ65RGB V3 hot-swap PCB with Per-key RGB\n
+            - KBD67 Rev 2 soldered PCB with RGB underglow\n
+            - Support VIA configurator\n
+            - EnjoyPBT WOB ABS Doubleshot 153 Cherry Profile Keycaps (DP0299)\n
+            - Tofu65 Aluminum Black case\n
+            - Cherry screw-in stabs\n
+            - Aluminum/ Brass/ PC plate\n
+            - USB-C interface\n\n
+
+            Include:\n
+            - Keycaps x1\n
+            - PCB x1\n
+            - Case x1\n
+            - Plate x1\n
+            - Stabs 60set x1\n
+            - USB-C cable x1\n
+            - PCB foam x1\n
+            - Case foam x1\n
+            - Rubber feet and screws
+        </item>
+        <item>
+            Include:\n
+            - Anodized KBD75 V2 Aluminum Case\n
+            - KBD75 PCB Type-c (RGB underglow, soldered version)\n
+            - Support VIA Configurator\n
+            - Brass plate\n
+            - Cherry screw-in stabs\n
+            - MAXKEY F22 SA Keycaps DP0880\n
+            - Screws and rubber feet\n
+            - Acrylic mid-layer\n
+            - USB-C cable\n
+            - The end key is R2 Profile
+        </item>
+        <item>
+            Specs:\n
+            - Gasket Mount\n
+            - 75% Layout\n
+            - Soldered Version PCB\n
+            - Designer: KBDfans Wei\n\n
+
+            Include:\n
+            - Case: top aluminum case and bottom aluminum case\n
+            - PCB: soldered version, type-c interface, support VIA configurator (SKU: PCB0005, KBD75 REV 2.0 PCB)\n
+            - Plate: silver aluminum plate\n
+            - Stabilizers: Cherry screw-in stabs 60 sets (SKU: DP0003)\n
+            - Foams: case foam x 1 (SKU: DP0501)+ PCB foam x 1 (SKU: DP1393)\n
+            - Gaskets: 1 set (SKU: DP0589)\n
+            - Rubber feet and Screws
+        </item>
+        <item>
+            Specs:\n
+            - Fully programmable via QMK software\n
+            - RGB Underglow\n
+            - Compact and efficient 75% layout\n
+            - Made in China\n\n
+
+            Includes:\n
+            - Anodized aluminum case\n
+            - KBD75 Rev 2.0 Soldered PCB\n
+            - Brass\Aluminium Plate(Tofu84) (support to split spacebar)\n
+            - Cherry screw-in stabs 60 set\n
+            - Screws and rubber feet\n
+            - Acrylic mid-layer
+        </item>
+    </string-array>
+</resources>
